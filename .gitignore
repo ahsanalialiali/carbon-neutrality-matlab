@@ -1,0 +1,43 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.autosave
+*.slx.autosave
+*.slxc
+
+# MATLAB generated folders
+slprj/
+sfprj/
+codegen/
+*.mexa64
+*.mexw64
+*.mexmaci64
+*.mexmaca64
+
+# MATLAB Project and editor caches
+resources/project/Project.xml
+*.prj.user
+*.mlproj.user
+
+# Simulink generated files
+*.rtw
+*.sldd.autosave
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python caches, if Python is used
+__pycache__/
+*.pyc
+.venv/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+
+# Generated output files
+outputs/
+results/
