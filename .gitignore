@@ -14,8 +14,7 @@ codegen/
 *.mexmaci64
 *.mexmaca64
 
-# MATLAB Project and editor caches
-resources/project/Project.xml
+# MATLAB user-specific-files
 *.prj.user
 *.mlproj.user
 
